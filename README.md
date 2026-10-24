@@ -1,3 +1,4 @@
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/selma278/agentic_rag/blob/main/agentic_rag.ipynb)
 # Agentic RAG with LlamaIndex + Groq
 
 An agent that decides when to query a document (RAG) and when to call a calculator tool.
